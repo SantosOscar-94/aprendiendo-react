@@ -10,7 +10,7 @@ function App() {
     <>
   
       <h1>Oscar</h1>
-       
+      <h1>practica react</h1>
     </>
   )
 }
